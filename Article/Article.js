@@ -85,6 +85,15 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Python: Find Your Inner Snake',
+    date: 'December 10, 2019',
+    firstParagraph: `Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue`,
+
+    secondParagraph: `Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue`,
+
+    thirdParagraph: `Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue Parseltongue`
   }
 ];
 
