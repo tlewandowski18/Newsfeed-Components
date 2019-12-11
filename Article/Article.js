@@ -138,18 +138,18 @@ function createArticle(obj) {
   firstParagraph.textContent = obj.firstParagraph;
   secondParagraph.textContent = obj.secondParagraph;
   thirdParagraph.textContent = obj.thirdParagraph;
+  expandButton.textContent = 'Open';
 
   expandButton.addEventListener('click', () => {
     articleDiv.classList.toggle('article-open');
   })
-  console.log(articleDiv);
   return articleDiv;
 }
 
 const articles = document.querySelector('.articles');
 
-// data.forEach(obj => {
-//   articles.appendChild(createArticle(obj));
-// })
+data.forEach(obj => {
+  articles.appendChild(createArticle(obj));
+})
 
 createArticle(data[0]);
